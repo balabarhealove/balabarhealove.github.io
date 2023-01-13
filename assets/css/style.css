@@ -582,6 +582,7 @@ section {
 }
 .fst-italic {
   font-size: 23px;
+  text-align: justify;
 }
 .about .content ul i {
   position: absolute;
@@ -766,7 +767,7 @@ section {
   border-radius: 3px;
 }
 .portfolio {
-  background-color: rgb(216, 213, 213);
+  
 }
 
 .portfolio #portfolio-flters li:hover,
@@ -1168,7 +1169,6 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #fff;
 }
 
 .contact .info i {
@@ -1207,7 +1207,6 @@ section {
 
 .contact .php-email-form {
   width: 100%;
-  background: #fff;
 }
 
 .contact .php-email-form .form-group {
